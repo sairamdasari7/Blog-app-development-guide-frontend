@@ -1,0 +1,17 @@
+.blog-detail {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .blog-detail h1 {
+    font-size: 2rem;
+    margin-top: 0;
+  }
+  
+  .blog-detail p {
+    line-height: 1.6;
+    margin-top: 10px;
+  }
+  
