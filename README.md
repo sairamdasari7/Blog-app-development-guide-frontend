@@ -21,23 +21,24 @@ This is the frontend for the Blog application. It provides a responsive interfac
 
 ### Installation
 
-1. Clone the repository:
+   1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/blog-app-frontend.git
-   cd blog-app-frontend
+      ```bash
+      git clone https://github.com/your-username/blog-app-frontend.git
+      cd blog-app-frontend
 
-2. Install dependencies:
+   2. Install dependencies:
    
-   ```bash
-   npm install
+      ```bash
+      npm install
 
-3. Update the api.js file with the correct backend API URL:
+   3. Update the api.js file with the correct backend API URL:
 
-  ```bash
-  const API_URL = 'http://localhost:5000';
+     ```bash
+     const API_URL = 'http://localhost:5000';
 
-## Running the Application
+
+### Running the Application
 
 1. Start the development server:
  
